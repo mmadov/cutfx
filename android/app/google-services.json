@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "233010520838",
+    "project_id": "cutfx-27155",
+    "storage_bucket": "cutfx-27155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233010520838:android:895751dde4d6eea8a4b487",
+        "android_client_info": {
+          "package_name": "com.retrytech.cutfx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233010520838-r4mj2fkj6e8gb2hpu9148009ps323rn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSLp7ZGr4UyhAfKsiMeOuw6cq4MUuok0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233010520838-551kd3iggs1935in53bhcmiftkrkn7o8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "233010520838-5e92pv8nkua7v9orqh5266fualhpmnr4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.retrytech.cutfx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233010520838:android:ead997aa1c634997a4b487",
+        "android_client_info": {
+          "package_name": "com.retrytech.cutfx_salon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233010520838-ahh3fapdbhhh2k39uigoai5eodivu3ij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retrytech.cutfx_salon",
+            "certificate_hash": "162a0e9e670657ede4c079f56152db4695f3e889"
+          }
+        },
+        {
+          "client_id": "233010520838-r4mj2fkj6e8gb2hpu9148009ps323rn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSLp7ZGr4UyhAfKsiMeOuw6cq4MUuok0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233010520838-551kd3iggs1935in53bhcmiftkrkn7o8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "233010520838-5e92pv8nkua7v9orqh5266fualhpmnr4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.retrytech.cutfx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
