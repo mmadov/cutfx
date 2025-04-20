@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>490517898985-onu264dcrmv6isrlbbht4peho9750bm1.apps.googleusercontent.com</string>
+	<string>490517898985-s26kfpdbc6v0u1a1p5e749e2n8u9ta71.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.490517898985-onu264dcrmv6isrlbbht4peho9750bm1</string>
+	<string>com.googleusercontent.apps.490517898985-s26kfpdbc6v0u1a1p5e749e2n8u9ta71</string>
 	<key>ANDROID_CLIENT_ID</key>
 	<string>490517898985-12uvr9f089982dnkvvk0n3bi17kkk03h.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
@@ -15,7 +15,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.qaychi.customer</string>
+	<string>com.qaychi.cust</string>
 	<key>PROJECT_ID</key>
 	<string>qaychi-d58fe</string>
 	<key>STORAGE_BUCKET</key>
@@ -31,6 +31,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:490517898985:ios:19720dc1fbfbc7b4ac7278</string>
+	<string>1:490517898985:ios:09b148caaaa40f74ac7278</string>
 </dict>
 </plist>
